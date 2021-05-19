@@ -8,7 +8,8 @@ Open terminal and navigate (cd) to this project folder and type the following co
 
 1. chmod +x ./bin/run
 2. ./bin/run
-   it will run teh testing and the parking lot
+
+it will run the testing and the parking lot
 
 # Frameworks / Libraries
 
