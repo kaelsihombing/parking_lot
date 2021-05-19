@@ -1,9 +1,9 @@
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null && pwd)"
 
 echo -----------------------------
-chmod +x run_functional_tests
+chmod +x ./bin/run_functional_tests
 ./bin/run_functional_tests
 echo -----------------------------
 echo -----------------------------
-chmod +x parking_lot
+chmod +x ./bin/parking_lot
 ./bin/parking_lot 
